@@ -1,0 +1,1 @@
+add_executable(bittorrent-cli "./main.c")
